@@ -16,4 +16,4 @@ our solutions.
 | ------- | --------- | ------------------------------------------------------------------------- |
 | Chris   | 🐍 Python | https://github.com/ChristopherSterza/group-advent-of-code-2022/tree/chris |
 | Donovan |           |                                                                           |
-| John    | 🦀 Rust   |                                                                           |
+| John    | 🦀 Rust   | https://github.com/ChristopherSterza/group-advent-of-code-2022/tree/john  |
