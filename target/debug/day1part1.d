@@ -1,1 +1,0 @@
-/Users/jberesford/Projects/advent-of-code-22/target/debug/day1part1: /Users/jberesford/Projects/advent-of-code-22/day1/src/bin/day1part1.rs /Users/jberesford/Projects/advent-of-code-22/day1/src/lib.rs
