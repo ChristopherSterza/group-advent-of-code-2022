@@ -24,8 +24,8 @@ year to familiarize myself with it more.
 | 07  | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [🐍solution.py](https://github.com/ChristopherSterza/group-advent-of-code-2022/blob/chris/day-7/solution.py)  | ⭐⭐  |
 | 08  | [Treetop Tree House](https://adventofcode.com/2022/day/8)      | [🐍solution.py](https://github.com/ChristopherSterza/group-advent-of-code-2022/blob/chris/day-8/solution.py)  | ⭐⭐  |
 | 09  | [Rope Bridge](https://adventofcode.com/2022/day/9)             | [🐍solution.py](https://github.com/ChristopherSterza/group-advent-of-code-2022/blob/chris/day-9/solution.py)  | ⭐⭐  |
-| 10  | [[Cathode-Ray Tube](https://adventofcode.com/2022/day/10)      | [🐍solution.py](https://github.com/ChristopherSterza/group-advent-of-code-2022/blob/chris/day-10/solution.py) | ⭐⭐  |
-| 11  |                                                                |                                                                                                               |       |
+| 10  | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)       | [🐍solution.py](https://github.com/ChristopherSterza/group-advent-of-code-2022/blob/chris/day-10/solution.py) | ⭐⭐  |
+| 11  | [Monkey in the Middle](https://adventofcode.com/2022/day/11)   | [🐍solution.py](https://github.com/ChristopherSterza/group-advent-of-code-2022/blob/chris/day-11/solution.py) | ⭐⭐  |
 | 12  |                                                                |                                                                                                               |       |
 | 13  |                                                                |                                                                                                               |       |
 | 14  |                                                                |                                                                                                               |       |
