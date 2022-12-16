@@ -1,6 +1,6 @@
 # 🎄 Advent of Code 2022 🎄
 
-![AoC2022 logo](https://github.com/ChristopherSterza/group-advent-of-code-2022/blob/master/header.png)
+![AoC2022 logo](./header.png)
 
 ## Summary
 
